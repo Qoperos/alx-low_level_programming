@@ -1,1 +1,1 @@
-# This is low level programming execirse with ALX!
+# This is low level programming exercise with ALX!
