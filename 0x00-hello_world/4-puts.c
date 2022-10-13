@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-/** 
- * main - prints some world using puts function
+/**
+ * main	- print the string in the put function
  *
- * Description : using the main function this program outputs
- * or prints "Programming is like building a multilingual puzzle
- * Return : 0
+ * Description:	using the main function
+ * this program prints "Programming is like building a multilingual puzzel
+ * Return: 0
  */
 int main(void)
 {
