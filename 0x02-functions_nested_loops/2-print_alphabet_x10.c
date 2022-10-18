@@ -7,8 +7,10 @@
  */
 void print_alphabet_x10(void)
 {
-	char i;
+	char i; 
+	
 	char c;
+	
 	for (i = 0; i <= 9; i++)
 	{
 		for (c = 97; c < 123; c++)
