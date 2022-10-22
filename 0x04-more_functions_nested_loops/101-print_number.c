@@ -5,7 +5,7 @@
  * @n: the integer to print
  *
  * Return: void
- * */
+ */
 void print_number(int n)
 {
 	int copy, nth, size = 1, ones = n % 10;
